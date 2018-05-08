@@ -1,0 +1,19 @@
+
+Defect Log Dock Management System SIT ( 27 April 2017 )
+
+Udah Solving
+
+DONE
+'14. Validasi user SCH tidak boleh scan project lain/ Mondelez 
+Validation input id doc
+'1. Dashboard Error ketka data kosong (tidak ada)  ngeload data pada All List Blade kriteria harus descending
+desc model
+'12. Ketika status menjadi Complete Loading di menu Outbound maka menjadi Complete Loading jika Inbound menjadi Complete Unloading
+ubah script & all_list_json
+'25. all_list_json dan dashboard model !=8 status
+'2. Add Form (Tambah Data) Nama Cust yang Both jangan dimasukkan di Exclude
+'3. Jika Purpose = Outbond alamat Tujuan tidak keluar (print)
+
+PENDING
+'17. pop-up scan munculin status setelahnya
+'24. validasi sms gak jalan (udah berfungsi di controller tapi pas di copy ke handle cron job belum otomatis)
